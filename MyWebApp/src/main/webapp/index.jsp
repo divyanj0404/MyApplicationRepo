@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>sonaregate<title>
+    <title> sonaregate <title>
       </head>
  <body>
-I have completed my 14th exercise!
+    <h2> I have completed my 14th exercise! <h2>
 </body>
 </html>
