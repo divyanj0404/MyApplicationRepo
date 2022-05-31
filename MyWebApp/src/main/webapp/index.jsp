@@ -4,7 +4,6 @@
     <title>sonaregate<title>
       </head>
  <body>
-
-<h2>I have completed my 14th exercise!</h2>
+I have completed my 14th exercise!
 </body>
 </html>
